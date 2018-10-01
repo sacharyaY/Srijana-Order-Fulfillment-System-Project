@@ -1,2 +1,2 @@
 # SrijanaC#-Project
-This is a simple application to update employees and their actions.
+A simple application for Order Fulfillment that can be used by customers, shippers & employee to update their action.
